@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "image": "chef1.jpg",
+        "name": "Chef John",
+        "experience": 10,
+        "number_of_recipes": 50,
+        "likes": 1000,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Classic Spaghetti Bolognese",
+                "ingredients": "Ground beef, Tomatoes, Onions, Garlic, Italian herbs",
+                "cooking_method": "Heat oil in a pan and sauté onions and garlic. Add ground beef and cook until browned. Stir in tomatoes and herbs. Simmer for 30 minutes. Serve over cooked al dente spaghetti."
+            },
+            {
+                "id": 2,
+                "name": "Lemon Garlic Roasted Chicken",
+                "ingredients": "Chicken, Lemons, Garlic, Olive oil, Herbs",
+                "cooking_method": "Preheat oven to 425°F (220°C). Place chicken in a roasting pan. Squeeze lemon juice over the chicken and stuff the cavity with lemon slices and garlic. Drizzle with olive oil and sprinkle with herbs. Roast for 45-60 minutes until cooked through and golden brown."
+            },
+            {
+                "id": 3,
+                "name": "Decadent Chocolate Mousse",
+                "ingredients": "Dark chocolate, Eggs, Sugar, Whipped cream, Vanilla extract",
+                "cooking_method": "Melt the chocolate in a heatproof bowl set over simmering water. In a separate bowl, whisk together egg yolks and sugar until pale and thick. Gradually pour the melted chocolate into the egg mixture, stirring constantly. In another bowl, beat the egg whites until stiff peaks form. Gently fold the egg whites into the chocolate mixture. Divide the mousse into serving glasses and refrigerate for at least 2 hours. Top with whipped cream and chocolate shavings before serving."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "chef2.jpg",
+        "name": "Chef Lisa",
+        "experience": 8,
+        "number_of_recipes": 75,
+        "likes": 1200,
+        "recipes": [
+            {
+                "id": 4,
+                "name": "Quinoa Salad with Roasted Vegetables",
+                "ingredients": "Quinoa, Assorted vegetables, Olive oil, Balsamic vinegar, Fresh herbs",
+                "cooking_method": "Cook quinoa according to package instructions. Toss vegetables with olive oil and roast in the oven until tender. In a large bowl, combine cooked quinoa and roasted vegetables. Drizzle with balsamic vinegar and sprinkle with fresh herbs. Serve at room temperature or chilled."
+            },
+            {
+                "id": 5,
+                "name": "Grilled Salmon with Mango Salsa",
+                "ingredients": "Salmon fillets, Mangoes, Red onions, Cilantro, Lime juice",
+                "cooking_method": "Preheat grill to medium-high heat. Season salmon fillets with salt and pepper. Grill the salmon for 4-6 minutes per side, or until cooked to desired doneness. In a bowl, combine diced mangoes, red onions, cilantro, and lime juice to make the salsa. Serve the grilled salmon with the mango salsa on top."
+            },
+            {
+                "id": 6,
+                "name": "Creamy Garlic Parmesan Pasta",
+                "ingredients": "Pasta, Garlic, Butter, Heavy cream, Parmesan cheese",
+                "cooking_method": "Cook pasta according to package instructions. In a large pan, melt butter over medium heat. Add minced garlic and sauté until fragrant. Stir in heavy cream and simmer until slightly thickened. Remove from heat and stir in grated Parmesan cheese until melted. Toss cooked pasta with the creamy sauce. Serve hot."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "chef3.jpg",
+        "name": "Chef Emily",
+        "experience": 5,
+        "number_of_recipes": 30,
+        "likes": 800,
+        "recipes": [
+            {
+                "id": 7,
+                "name": "Roasted Vegetable Frittata",
+                "ingredients": "Eggs, Assorted vegetables, Cheese, Milk, Salt, Pepper",
+                "cooking_method": "Preheat oven to 375°F (190°C). Whisk eggs, milk, salt, and pepper in a bowl. Sauté vegetables in an oven-safe skillet until tender. Pour the egg mixture over the vegetables and cook for a few minutes. Transfer the skillet to the oven and bake for about 15 minutes until the frittata is set and golden brown. Slice and serve."
+            },
+            {
+                "id": 8,
+                "name": "Chicken Stir-Fry with Vegetables",
+                "ingredients": "Chicken breast, Assorted vegetables, Soy sauce, Ginger, Garlic, Sesame oil",
+                "cooking_method": "Heat oil in a wok or large skillet. Add diced chicken and cook until browned. Remove chicken from the pan. Stir-fry vegetables, ginger, and garlic until crisp-tender. Return the chicken to the pan and add soy sauce. Cook for a few more minutes until heated through. Drizzle with sesame oil and serve over rice or noodles."
+            },
+            {
+                "id": 9,
+                "name": "Blueberry Pancakes",
+                "ingredients": "Pancake mix, Blueberries, Milk, Eggs, Vanilla extract",
+                "cooking_method": "In a bowl, whisk together pancake mix, milk, eggs, and vanilla extract until smooth. Gently fold in fresh blueberries. Heat a griddle or non-stick pan over medium heat. Pour 1/4 cup of batter onto the hot surface for each pancake. Cook until bubbles form on the surface, then flip and cook the other side until golden brown. Serve with maple syrup."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "chef4.jpg",
+        "name": "Chef Michael",
+        "experience": 12,
+        "number_of_recipes": 90,
+        "likes": 1500,
+        "recipes": [
+            {
+                "id": 10,
+                "name": "Beef Tenderloin with Red Wine Sauce",
+                "ingredients": "Beef tenderloin, Red wine, Shallots, Butter, Thyme, Salt, Pepper",
+                "cooking_method": "Preheat oven to 425°F (220°C). Season beef tenderloin with salt and pepper. Sear the beef in a hot skillet with butter. Transfer the beef to a roasting pan and roast in the oven for about 20-25 minutes or until desired doneness. In the same skillet, sauté shallots and thyme. Add red wine and simmer until reduced. Slice the beef and serve with the red wine sauce."
+            },
+            {
+                "id": 11,
+                "name": "Mediterranean Quinoa Salad",
+                "ingredients": "Quinoa, Cucumbers, Tomatoes, Feta cheese, Olives, Lemon juice, Olive oil",
+                "cooking_method": "Cook quinoa according to package instructions. In a large bowl, combine cooked quinoa, diced cucumbers, halved cherry tomatoes, crumbled feta cheese, and sliced olives. Drizzle with lemon juice and olive oil. Toss to combine. Season with salt and pepper. Serve chilled as a refreshing salad."
+            },
+            {
+                "id": 12,
+                "name": "Banana Bread",
+                "ingredients": "Bananas, Flour, Sugar, Eggs, Butter, Baking powder, Vanilla extract",
+                "cooking_method": "Preheat oven to 350°F (175°C). Mash ripe bananas in a bowl. In a separate bowl, mix flour, sugar, baking powder, and a pinch of salt. In another bowl, beat eggs and melted butter together. Combine the banana mixture with the egg mixture. Gradually add the dry ingredients and mix well. Pour the batter into a greased loaf pan and bake for about 50-60 minutes until a toothpick inserted into the center comes out clean. Let it cool before slicing."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "chef5.jpg",
+        "name": "Chef Sophia",
+        "experience": 6,
+        "number_of_recipes": 40,
+        "likes": 900,
+        "recipes": [
+            {
+                "id": 13,
+                "name": "Caprese Salad",
+                "ingredients": "Tomatoes, Fresh mozzarella cheese, Basil leaves, Balsamic glaze, Olive oil",
+                "cooking_method": "Slice tomatoes and fresh mozzarella cheese. Arrange them on a plate, alternating between tomato and cheese slices. Tuck fresh basil leaves between the slices. Drizzle with balsamic glaze and olive oil. Season with salt and pepper. Serve as a light and refreshing salad."
+            },
+            {
+                "id": 14,
+                "name": "Shrimp Scampi",
+                "ingredients": "Shrimp, Garlic, Butter, Lemon juice, White wine, Parsley",
+                "cooking_method": "Heat butter in a skillet over medium heat. Add minced garlic and sauté until fragrant. Add shrimp and cook until pink. Remove the shrimp from the pan. Pour lemon juice and white wine into the pan and simmer until reduced. Return the shrimp to the pan and toss to coat. Sprinkle with chopped parsley. Serve over pasta or with crusty bread."
+            },
+            {
+                "id": 15,
+                "name": "Raspberry Cheesecake",
+                "ingredients": "Graham cracker crumbs, Cream cheese, Sugar, Eggs, Vanilla extract, Raspberry sauce",
+                "cooking_method": "Mix graham cracker crumbs with melted butter and press into the bottom of a springform pan. In a separate bowl, beat cream cheese, sugar, eggs, and vanilla extract until smooth. Pour the cream cheese mixture over the crust. Drizzle raspberry sauce over the top and swirl with a knife. Bake in a preheated oven at 325°F (165°C) for about 45-55 minutes until set. Let it cool before refrigerating. Serve chilled."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "chef6.jpg",
+        "name": "Chef William",
+        "experience": 15,
+        "number_of_recipes": 120,
+        "likes": 2000,
+        "recipes": [
+            {
+                "id": 16,
+                "name": "Steak with Chimichurri Sauce",
+                "ingredients": "Steak, Fresh herbs, Garlic, Red wine vinegar, Olive oil, Salt, Pepper",
+                "cooking_method": "Season steak with salt and pepper. Grill or pan-sear the steak to desired doneness. In a blender or food processor, combine fresh herbs (such as parsley, cilantro, or oregano), garlic, red wine vinegar, olive oil, salt, and pepper. Blend until well combined. Serve the steak with a generous drizzle of chimichurri sauce."
+            },
+            {
+                "id": 17,
+                "name": "Roasted Brussels Sprouts",
+                "ingredients": "Brussels sprouts, Olive oil, Balsamic vinegar, Honey, Salt, Pepper",
+                "cooking_method": "Preheat oven to 400°F (200°C). Trim the Brussels sprouts and cut them in half. Toss Brussels sprouts with olive oil, balsamic vinegar, honey, salt, and pepper in a baking dish. Roast in the oven for about 25-30 minutes, stirring occasionally, until the sprouts are tender and caramelized. Serve as a delicious side dish."
+            },
+            {
+                "id": 18,
+                "name": "Apple Pie",
+                "ingredients": "Apples, Sugar, Flour, Cinnamon, Butter, Pie crust",
+                "cooking_method": "Preheat oven to 375°F (190°C). Peel, core, and slice apples. In a bowl, mix sugar, flour, and cinnamon. In a separate bowl, toss the sliced apples with the sugar mixture. Line a pie dish with one pie crust. Fill the crust with the apple mixture and dot with butter. Cover with the second pie crust, seal the edges, and cut slits on top for steam to escape. Bake for about 40-50 minutes until the crust is golden and the filling is bubbly. Allow it to cool before serving."
+            }
+        ]
+    }
+]
