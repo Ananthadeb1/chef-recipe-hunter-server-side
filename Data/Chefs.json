@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "chef1.jpg",
+        "image": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?w=996&t=st=1687787240~exp=1687787840~hmac=b938f6df9e3f93fc20c32456e2d860b72672709771c837777f0bff277402412c",
         "name": "Chef John",
         "experience": 10,
         "number_of_recipes": 50,
@@ -29,7 +29,7 @@
     },
     {
         "id": 2,
-        "image": "chef2.jpg",
+        "image": "https://img.freepik.com/free-photo/confident-young-female-cook-wearing-chef-uniform-holding-frying-pan-crossing-hands-isolated-white-wall_141793-120213.jpg?w=900&t=st=1687788013~exp=1687788613~hmac=31381e554644749f32a40ef923d5d45969ec9e26587aa9141a2bf5f318e619d9",
         "name": "Chef Lisa",
         "experience": 8,
         "number_of_recipes": 75,
@@ -57,7 +57,7 @@
     },
     {
         "id": 3,
-        "image": "chef3.jpg",
+        "image": "https://img.freepik.com/free-photo/smiling-middle-aged-female-cook-chef-uniform-crossing-hands-with-copy-space_141793-37761.jpg?w=900&t=st=1687787647~exp=1687788247~hmac=b3a67b4307d0050045917f4097afb6d39dc07636d2417c250bf63c6742359327",
         "name": "Chef Emily",
         "experience": 5,
         "number_of_recipes": 30,
@@ -85,7 +85,7 @@
     },
     {
         "id": 4,
-        "image": "chef4.jpg",
+        "image": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-potatoes-with-both-hands-isolated-orange-background-with-copy-space_141793-34957.jpg?w=900&t=st=1687787340~exp=1687787940~hmac=d705341441a9df8c8a2f1bea2a73e7ff9ec85fc61131a52c00cd5b895c5d85bb",
         "name": "Chef Michael",
         "experience": 12,
         "number_of_recipes": 90,
@@ -113,7 +113,7 @@
     },
     {
         "id": 5,
-        "image": "chef5.jpg",
+        "image": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-crosses-arms-looks-camera-isolated-violet-wall-with-copy-space_141793-33151.jpg?w=900&t=st=1687787553~exp=1687788153~hmac=27dd7f3799fbbd75a51a4fd39a812169775b34fc671d84cc0c92416cd7346f83",
         "name": "Chef Sophia",
         "experience": 6,
         "number_of_recipes": 40,
@@ -141,7 +141,7 @@
     },
     {
         "id": 6,
-        "image": "chef6.jpg",
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1687787622~exp=1687788222~hmac=b6df7477996563d6698db453a4abf385e7392bcf068818cc1c86e0a81df6b637",
         "name": "Chef William",
         "experience": 15,
         "number_of_recipes": 120,
