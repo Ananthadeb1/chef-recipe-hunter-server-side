@@ -6,6 +6,7 @@
         "experience": 10,
         "number_of_recipes": 50,
         "likes": 1000,
+        "bio": "With over 10 years of culinary experience, Chef John is a seasoned expert in the kitchen. He is known for his classic recipes and has a repertoire of 50 delicious dishes. Chef John's creations have garnered a strong following, with 1000 likes and counting. From his mouthwatering Classic Spaghetti Bolognese to his heavenly Decadent Chocolate Mousse, Chef John brings passion and flavor to every meal.",
         "recipes": [
             {
                 "id": 1,
@@ -34,137 +35,143 @@
         "experience": 8,
         "number_of_recipes": 75,
         "likes": 1200,
+        "bio": "Chef Lisa is a talented and passionate chef with 8 years of experience in the culinary world. She has an impressive collection of 75 unique recipes that showcase her creativity and expertise. Chef Lisa's innovative approach to cooking has earned her a dedicated following of food enthusiasts, with 1200 likes and counting. From her nutritious Quinoa Salad with Roasted Vegetables to her delectable creations, Chef Lisa's dishes are a delightful fusion of flavors and textures.",
         "recipes": [
             {
                 "id": 4,
                 "name": "Quinoa Salad with Roasted Vegetables",
                 "ingredients": "Quinoa, Assorted vegetables, Olive oil, Balsamic vinegar, Fresh herbs",
-                "cooking_method": "Cook quinoa according to package instructions. Toss vegetables with olive oil and roast in the oven until tender. In a large bowl, combine cooked quinoa and roasted vegetables. Drizzle with balsamic vinegar and sprinkle with fresh herbs. Serve at room temperature or chilled."
+                "cooking_method": "Cook quinoa according to package instructions. Toss vegetables with olive oil and roast in the oven until tender. In a large bowl, combine cooked quinoa and roasted vegetables. Drizzle with balsamic vinegar and sprinkle with fresh herbs. Serve chilled or at room temperature."
             },
             {
                 "id": 5,
-                "name": "Grilled Salmon with Mango Salsa",
-                "ingredients": "Salmon fillets, Mangoes, Red onions, Cilantro, Lime juice",
-                "cooking_method": "Preheat grill to medium-high heat. Season salmon fillets with salt and pepper. Grill the salmon for 4-6 minutes per side, or until cooked to desired doneness. In a bowl, combine diced mangoes, red onions, cilantro, and lime juice to make the salsa. Serve the grilled salmon with the mango salsa on top."
+                "name": "Gourmet Mushroom Risotto",
+                "ingredients": "Arborio rice, Mushrooms, Onion, Garlic, Vegetable broth, Parmesan cheese",
+                "cooking_method": "In a large saucepan, sauté onion and garlic until translucent. Add arborio rice and stir to coat with oil. Gradually add vegetable broth, one ladle at a time, stirring constantly until absorbed. In a separate pan, sauté mushrooms until golden. Add the sautéed mushrooms to the risotto and continue cooking until rice is creamy and al dente. Stir in grated Parmesan cheese and season with salt and pepper. Serve hot."
             },
             {
                 "id": 6,
-                "name": "Creamy Garlic Parmesan Pasta",
-                "ingredients": "Pasta, Garlic, Butter, Heavy cream, Parmesan cheese",
-                "cooking_method": "Cook pasta according to package instructions. In a large pan, melt butter over medium heat. Add minced garlic and sauté until fragrant. Stir in heavy cream and simmer until slightly thickened. Remove from heat and stir in grated Parmesan cheese until melted. Toss cooked pasta with the creamy sauce. Serve hot."
+                "name": "Caramelized Banana Pancakes",
+                "ingredients": "Bananas, Pancake mix, Butter, Brown sugar, Maple syrup",
+                "cooking_method": "Slice bananas and set aside. Prepare pancake mix according to package instructions. In a skillet, melt butter and sprinkle brown sugar. Add banana slices and cook until caramelized. Pour pancake batter over the bananas and cook until golden brown. Serve the pancakes with caramelized bananas on top and drizzle with maple syrup."
             }
         ]
     },
     {
         "id": 3,
-        "image": "https://img.freepik.com/free-photo/smiling-middle-aged-female-cook-chef-uniform-crossing-hands-with-copy-space_141793-37761.jpg?w=900&t=st=1687787647~exp=1687788247~hmac=b3a67b4307d0050045917f4097afb6d39dc07636d2417c250bf63c6742359327",
-        "name": "Chef Emily",
-        "experience": 5,
-        "number_of_recipes": 30,
-        "likes": 800,
+        "image": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-potatoes-with-both-hands-isolated-orange-background-with-copy-space_141793-34957.jpg?w=900&t=st=1687787340~exp=1687787940~hmac=d705341441a9df8c8a2f1bea2a73e7ff9ec85fc61131a52c00cd5b895c5d85bb",
+        "name": "Chef Michael",
+        "experience": 12,
+        "number_of_recipes": 100,
+        "likes": 1500,
+        "bio": "Chef Michael is a highly skilled chef with 12 years of experience in the culinary industry. He is renowned for his diverse range of 100 recipes that span various cuisines and flavors. With 1500 likes and counting, Chef Michael's dishes captivate taste buds and leave a lasting impression. Whether it's his aromatic Chicken Tikka Masala or his tantalizing Tiramisu, Chef Michael's expertise shines through in every plate.",
         "recipes": [
             {
                 "id": 7,
-                "name": "Roasted Vegetable Frittata",
-                "ingredients": "Eggs, Assorted vegetables, Cheese, Milk, Salt, Pepper",
-                "cooking_method": "Preheat oven to 375°F (190°C). Whisk eggs, milk, salt, and pepper in a bowl. Sauté vegetables in an oven-safe skillet until tender. Pour the egg mixture over the vegetables and cook for a few minutes. Transfer the skillet to the oven and bake for about 15 minutes until the frittata is set and golden brown. Slice and serve."
+                "name": "Chicken Tikka Masala",
+                "ingredients": "Chicken, Yogurt, Tomatoes, Onion, Garlic, Indian spices",
+                "cooking_method": "Marinate chicken pieces in yogurt and spices for at least 1 hour. Grill or cook the chicken until lightly charred. In a separate pan, sauté onions and garlic until golden. Add tomatoes and simmer until the sauce thickens. Add the grilled chicken to the sauce and cook for an additional 10 minutes. Serve with steamed rice or naan bread."
             },
             {
                 "id": 8,
-                "name": "Chicken Stir-Fry with Vegetables",
-                "ingredients": "Chicken breast, Assorted vegetables, Soy sauce, Ginger, Garlic, Sesame oil",
-                "cooking_method": "Heat oil in a wok or large skillet. Add diced chicken and cook until browned. Remove chicken from the pan. Stir-fry vegetables, ginger, and garlic until crisp-tender. Return the chicken to the pan and add soy sauce. Cook for a few more minutes until heated through. Drizzle with sesame oil and serve over rice or noodles."
+                "name": "Beef Stir-Fry with Vegetables",
+                "ingredients": "Beef, Assorted vegetables, Soy sauce, Ginger, Garlic, Sesame oil",
+                "cooking_method": "Slice beef into thin strips and marinate in soy sauce, ginger, and garlic. In a hot skillet, stir-fry beef until browned. Remove beef from the skillet and set aside. In the same skillet, stir-fry vegetables until crisp-tender. Return the beef to the skillet and toss with the vegetables. Drizzle with sesame oil and serve hot."
             },
             {
                 "id": 9,
-                "name": "Blueberry Pancakes",
-                "ingredients": "Pancake mix, Blueberries, Milk, Eggs, Vanilla extract",
-                "cooking_method": "In a bowl, whisk together pancake mix, milk, eggs, and vanilla extract until smooth. Gently fold in fresh blueberries. Heat a griddle or non-stick pan over medium heat. Pour 1/4 cup of batter onto the hot surface for each pancake. Cook until bubbles form on the surface, then flip and cook the other side until golden brown. Serve with maple syrup."
+                "name": "Tiramisu",
+                "ingredients": "Ladyfingers, Espresso, Mascarpone cheese, Eggs, Sugar, Cocoa powder",
+                "cooking_method": "Dip ladyfingers in espresso and layer them in a dish. In a bowl, whisk together mascarpone cheese, eggs, and sugar until smooth. Spread a layer of the mascarpone mixture over the ladyfingers. Repeat the layers. Dust the top layer with cocoa powder. Refrigerate for at least 4 hours before serving."
             }
         ]
     },
     {
         "id": 4,
-        "image": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-potatoes-with-both-hands-isolated-orange-background-with-copy-space_141793-34957.jpg?w=900&t=st=1687787340~exp=1687787940~hmac=d705341441a9df8c8a2f1bea2a73e7ff9ec85fc61131a52c00cd5b895c5d85bb",
-        "name": "Chef Michael",
-        "experience": 12,
-        "number_of_recipes": 90,
-        "likes": 1500,
+        "image": "https://img.freepik.com/free-photo/smiling-middle-aged-female-cook-chef-uniform-crossing-hands-with-copy-space_141793-37761.jpg?w=900&t=st=1687787647~exp=1687788247~hmac=b3a67b4307d0050045917f4097afb6d39dc07636d2417c250bf63c6742359327",
+        "name": "Chef Emily",
+        "experience": 6,
+        "number_of_recipes": 60,
+        "likes": 800,
+        "bio": "Chef Emily is a young and talented chef with 6 years of experience in the culinary industry. Despite her relatively short career, she has already developed an impressive repertoire of 60 delicious recipes. Chef Emily's passion for cooking is evident in her dishes, which have earned her 800 likes and a growing fan base. From her mouthwatering Crab Cakes to her delightful Raspberry Swirl Cheesecake, Chef Emily's creations are a true delight for the senses.",
         "recipes": [
             {
                 "id": 10,
-                "name": "Beef Tenderloin with Red Wine Sauce",
-                "ingredients": "Beef tenderloin, Red wine, Shallots, Butter, Thyme, Salt, Pepper",
-                "cooking_method": "Preheat oven to 425°F (220°C). Season beef tenderloin with salt and pepper. Sear the beef in a hot skillet with butter. Transfer the beef to a roasting pan and roast in the oven for about 20-25 minutes or until desired doneness. In the same skillet, sauté shallots and thyme. Add red wine and simmer until reduced. Slice the beef and serve with the red wine sauce."
+                "name": "Crab Cakes",
+                "ingredients": "Crab meat, Bread crumbs, Mayonnaise, Dijon mustard, Old Bay seasoning",
+                "cooking_method": "In a bowl, mix together crab meat, bread crumbs, mayonnaise, mustard, and Old Bay seasoning. Form the mixture into patties. Heat oil in a skillet and cook the crab cakes until golden brown on each side. Serve with tartar sauce or aioli."
             },
             {
                 "id": 11,
-                "name": "Mediterranean Quinoa Salad",
-                "ingredients": "Quinoa, Cucumbers, Tomatoes, Feta cheese, Olives, Lemon juice, Olive oil",
-                "cooking_method": "Cook quinoa according to package instructions. In a large bowl, combine cooked quinoa, diced cucumbers, halved cherry tomatoes, crumbled feta cheese, and sliced olives. Drizzle with lemon juice and olive oil. Toss to combine. Season with salt and pepper. Serve chilled as a refreshing salad."
+                "name": "Lemon Herb Roasted Salmon",
+                "ingredients": "Salmon fillets, Lemon, Fresh herbs, Olive oil, Garlic",
+                "cooking_method": "Preheat oven to 400°F (200°C). Place salmon fillets on a baking sheet. Squeeze lemon juice over the salmon and sprinkle with fresh herbs, olive oil, and minced garlic. Bake for 12-15 minutes until salmon is cooked through and flakes easily with a fork."
             },
             {
                 "id": 12,
-                "name": "Banana Bread",
-                "ingredients": "Bananas, Flour, Sugar, Eggs, Butter, Baking powder, Vanilla extract",
-                "cooking_method": "Preheat oven to 350°F (175°C). Mash ripe bananas in a bowl. In a separate bowl, mix flour, sugar, baking powder, and a pinch of salt. In another bowl, beat eggs and melted butter together. Combine the banana mixture with the egg mixture. Gradually add the dry ingredients and mix well. Pour the batter into a greased loaf pan and bake for about 50-60 minutes until a toothpick inserted into the center comes out clean. Let it cool before slicing."
+                "name": "Raspberry Swirl Cheesecake",
+                "ingredients": "Graham cracker crust, Cream cheese, Sugar, Eggs, Vanilla extract, Raspberry sauce",
+                "cooking_method": "Preheat oven to 325°F (160°C). In a mixing bowl, beat cream cheese, sugar, eggs, and vanilla extract until smooth. Pour the mixture into the graham cracker crust. Drizzle raspberry sauce over the top and use a toothpick to create a swirl pattern. Bake for 50-60 minutes until the cheesecake is set. Allow to cool before serving."
             }
         ]
     },
     {
         "id": 5,
         "image": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-crosses-arms-looks-camera-isolated-violet-wall-with-copy-space_141793-33151.jpg?w=900&t=st=1687787553~exp=1687788153~hmac=27dd7f3799fbbd75a51a4fd39a812169775b34fc671d84cc0c92416cd7346f83",
-        "name": "Chef Sophia",
-        "experience": 6,
-        "number_of_recipes": 40,
-        "likes": 900,
+        "name": "Chef Sarah",
+        "experience": 9,
+        "number_of_recipes": 80,
+        "likes": 1100,
+        "bio": "Chef Sarah is a talented and dedicated chef with 9 years of experience in the culinary industry. She has curated a diverse collection of 80 recipes that showcase her creativity and culinary skills. Chef Sarah's dishes have garnered 1100 likes and continue to impress with their bold flavors and elegant presentations. From her savory Beef Wellington to her indulgent Dark Chocolate Soufflé, Chef Sarah's creations are a true culinary masterpiece.",
         "recipes": [
             {
                 "id": 13,
-                "name": "Caprese Salad",
-                "ingredients": "Tomatoes, Fresh mozzarella cheese, Basil leaves, Balsamic glaze, Olive oil",
-                "cooking_method": "Slice tomatoes and fresh mozzarella cheese. Arrange them on a plate, alternating between tomato and cheese slices. Tuck fresh basil leaves between the slices. Drizzle with balsamic glaze and olive oil. Season with salt and pepper. Serve as a light and refreshing salad."
+                "name": "Beef Wellington",
+                "ingredients": "Beef tenderloin, Puff pastry, Mushroom duxelles, Prosciutto, Egg wash",
+                "cooking_method": "Season beef tenderloin with salt and pepper. Sear in a hot skillet until browned on all sides. Brush puff pastry with egg wash and layer with mushroom duxelles and prosciutto. Place the seared beef on top and wrap the pastry tightly. Brush the pastry with egg wash. Bake in a preheated oven at 400°F (200°C) for 25-30 minutes until golden brown. Allow to rest before slicing."
             },
             {
                 "id": 14,
-                "name": "Shrimp Scampi",
-                "ingredients": "Shrimp, Garlic, Butter, Lemon juice, White wine, Parsley",
-                "cooking_method": "Heat butter in a skillet over medium heat. Add minced garlic and sauté until fragrant. Add shrimp and cook until pink. Remove the shrimp from the pan. Pour lemon juice and white wine into the pan and simmer until reduced. Return the shrimp to the pan and toss to coat. Sprinkle with chopped parsley. Serve over pasta or with crusty bread."
+                "name": "Spinach and Feta Stuffed Chicken Breast",
+                "ingredients": "Chicken breast, Spinach, Feta cheese, Garlic, Olive oil",
+                "cooking_method": "Butterfly chicken breasts and season with salt and pepper. Sauté spinach and garlic in olive oil until wilted. Spread feta cheese and spinach mixture over one half of each chicken breast. Fold the other half over the filling and secure with toothpicks. Bake in a preheated oven at 375°F (190°C) for 25-30 minutes until cooked through."
             },
             {
                 "id": 15,
-                "name": "Raspberry Cheesecake",
-                "ingredients": "Graham cracker crumbs, Cream cheese, Sugar, Eggs, Vanilla extract, Raspberry sauce",
-                "cooking_method": "Mix graham cracker crumbs with melted butter and press into the bottom of a springform pan. In a separate bowl, beat cream cheese, sugar, eggs, and vanilla extract until smooth. Pour the cream cheese mixture over the crust. Drizzle raspberry sauce over the top and swirl with a knife. Bake in a preheated oven at 325°F (165°C) for about 45-55 minutes until set. Let it cool before refrigerating. Serve chilled."
+                "name": "Dark Chocolate Soufflé",
+                "ingredients": "Dark chocolate, Butter, Eggs, Sugar, Cocoa powder",
+                "cooking_method": "Melt dark chocolate and butter in a heatproof bowl set over simmering water. In a separate bowl, whisk together egg yolks and sugar until pale and thick. Gradually pour the melted chocolate into the egg mixture, stirring constantly. In another bowl, beat egg whites until stiff peaks form. Gently fold the egg whites into the chocolate mixture. Pour the mixture into greased ramekins and dust with cocoa powder. Bake in a preheated oven at 375°F (190°C) for 12-15 minutes until puffed and set."
             }
         ]
     },
     {
         "id": 6,
         "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1687787622~exp=1687788222~hmac=b6df7477996563d6698db453a4abf385e7392bcf068818cc1c86e0a81df6b637",
-        "name": "Chef William",
-        "experience": 15,
-        "number_of_recipes": 120,
-        "likes": 2000,
+        "name": "Chef David",
+        "experience": 11,
+        "number_of_recipes": 90,
+        "likes": 1400,
+        "bio": "Chef David is an accomplished chef with 11 years of experience in the culinary field. He is renowned for his vast collection of 90 recipes that showcase his culinary expertise and creative flair. Chef David's dishes have earned him a strong following, with 1400 likes and counting. From his flavorful Thai Green Curry to his decadent Triple Chocolate Brownies, Chef David's creations are a testament to his passion for cooking and commitment to excellence.",
         "recipes": [
             {
                 "id": 16,
-                "name": "Steak with Chimichurri Sauce",
-                "ingredients": "Steak, Fresh herbs, Garlic, Red wine vinegar, Olive oil, Salt, Pepper",
-                "cooking_method": "Season steak with salt and pepper. Grill or pan-sear the steak to desired doneness. In a blender or food processor, combine fresh herbs (such as parsley, cilantro, or oregano), garlic, red wine vinegar, olive oil, salt, and pepper. Blend until well combined. Serve the steak with a generous drizzle of chimichurri sauce."
+                "name": "Thai Green Curry",
+                "ingredients": "Chicken, Coconut milk, Green curry paste, Vegetables, Thai basil",
+                "cooking_method": "In a hot pan, sauté green curry paste until fragrant. Add chicken and cook until browned. Stir in coconut milk and vegetables. Simmer until the chicken is cooked through and the vegetables are tender. Garnish with Thai basil and serve with steamed rice."
             },
             {
                 "id": 17,
-                "name": "Roasted Brussels Sprouts",
-                "ingredients": "Brussels sprouts, Olive oil, Balsamic vinegar, Honey, Salt, Pepper",
-                "cooking_method": "Preheat oven to 400°F (200°C). Trim the Brussels sprouts and cut them in half. Toss Brussels sprouts with olive oil, balsamic vinegar, honey, salt, and pepper in a baking dish. Roast in the oven for about 25-30 minutes, stirring occasionally, until the sprouts are tender and caramelized. Serve as a delicious side dish."
+                "name": "Grilled Steak with Chimichurri Sauce",
+                "ingredients": "Steak, Olive oil, Garlic, Fresh herbs, Red wine vinegar",
+                "cooking_method": "Season steak with salt, pepper, and olive oil. Grill the steak to desired doneness. In a blender, combine garlic, fresh herbs, olive oil, and red wine vinegar. Blend until smooth to make the chimichurri sauce. Slice the grilled steak and drizzle with the chimichurri sauce before serving."
             },
             {
                 "id": 18,
-                "name": "Apple Pie",
-                "ingredients": "Apples, Sugar, Flour, Cinnamon, Butter, Pie crust",
-                "cooking_method": "Preheat oven to 375°F (190°C). Peel, core, and slice apples. In a bowl, mix sugar, flour, and cinnamon. In a separate bowl, toss the sliced apples with the sugar mixture. Line a pie dish with one pie crust. Fill the crust with the apple mixture and dot with butter. Cover with the second pie crust, seal the edges, and cut slits on top for steam to escape. Bake for about 40-50 minutes until the crust is golden and the filling is bubbly. Allow it to cool before serving."
+                "name": "Triple Chocolate Brownies",
+                "ingredients": "Dark chocolate, Butter, Sugar, Eggs, Flour, Cocoa powder, Chocolate chips",
+                "cooking_method": "Melt dark chocolate and butter in a heatproof bowl set over simmering water. In a separate bowl, whisk together sugar and eggs until well combined. Gradually pour the melted chocolate into the egg mixture, stirring constantly. Sift in flour and cocoa powder and fold until just combined. Stir in chocolate chips. Pour the batter into a greased baking pan and bake in a preheated oven at 350°F (175°C) for 25-30 minutes until set. Allow to cool before cutting into squares."
             }
         ]
     }
 ]
+
