@@ -11,13 +11,14 @@ app.get('/', (req, res) => {
     res.send('chef running')
 });
 
-app.get('/chefs', (req, res) => {
-    res.send(chefs)
+app.get('/chefs', async (req, res) => {
+    const result = await chefs;
+    res.send(result)
 });
 
-app.get('/chef/:id', (req, res) => {
+app.get('/chef/:id', async (req, res) => {
     const id = req.params.id;
-    const chef = chefs.find(c => c.id == id);
+    const chef = await chefs.find(c => c.id == id);
     res.send(chef);
 });
 
